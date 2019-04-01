@@ -1,7 +1,5 @@
 Welcome to Everis! 35
 HOLA
-<<<<<<< HEAD
 EYY
-=======
 adios
->>>>>>> 438120141512be099c916cf0bb98bc6b9cca1977
+
