@@ -1,7 +1,3 @@
 ESTE ES EL FICHERO BUENO!
 LO MODIFICO
-<<<<<<< HEAD
 2
-=======
-3
->>>>>>> 58d01fdf4031e555a81d01ab6733ced9dde89352
